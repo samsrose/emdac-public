@@ -80,7 +80,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "http://ems.acgov.org/",
       description: "Karl Sporer, MD, FACEP, FACP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06003": {
@@ -88,42 +88,42 @@ var simplemaps_statemap_mapdata={
       color: "rgba(244, 114, 182,1)",
       url: "http://www.mvemsa.org/",
       description: "Kim Freeman, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06005": {
       name: "Amador",
       color: "rgba(244, 114, 182,1)",
       url: "http://www.mvemsa.org/",
       description: "Kim Freeman, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06007": {
       name: "Butte",
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06009": {
       name: "Calaveras",
       color: "rgba(244, 114, 182,1)",
       url: "http://www.mvemsa.org/",
       description: "Kim Freeman, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06011": {
       name: "Colusa",
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06013": {
       name: "Contra Costa",
       color: "#3B729F",
       url: "https://cchealth.org/ems/",
       description: "Senai Kidane, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06015": {
@@ -131,14 +131,14 @@ var simplemaps_statemap_mapdata={
       color: "rgba(239, 68, 68,1)",
       url: "http://www.northcoastems.com/",
       description: "Matthew Karp, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06017": {
       name: "El Dorado",
       color: "#3B729F",
       url: "https://www.edcgov.us/ems",
       description: "Dave Duncan, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06019": {
@@ -146,28 +146,28 @@ var simplemaps_statemap_mapdata={
       color: "rgba(96, 165, 250,1)",
       url: "http://www.co.fresno.ca.us/departments/public-health/emergency-medical-services",
       description: "Jim Andrews, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06021": {
       name: "Glenn",
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06023": {
       name: "Humboldt",
       color: "rgba(239, 68, 68,1)",
       url: "http://www.northcoastems.com/",
       description: "Matthew Karp, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06025": {
       name: "Imperial",
       color: "#3B729F",
       url: "http://www.icphd.org/emergency-medical-services/",
       description: "Kathy Staats, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06027": {
@@ -175,14 +175,14 @@ var simplemaps_statemap_mapdata={
       color: "rgba(5, 150, 105,1)",
       url: "http://www.sbcounty.gov/icema/main/default.aspx",
       description: "Reza Vaezazizi, MD, FACEP",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06029": {
       name: "Kern",
       color: "#3B729F",
       url: "http://kernpublichealth.com/ems/",
       description: "Kristopher L. Lyon, MD, FACEP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06031": {
@@ -190,28 +190,28 @@ var simplemaps_statemap_mapdata={
       color: "rgba(96, 165, 250,1)",
       url: "http://www.co.fresno.ca.us/departments/public-health/emergency-medical-services",
       description: "Jim Andrews, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06033": {
       name: "Lake",
       color: "rgba(239, 68, 68,1)",
       url: "http://www.northcoastems.com/",
       description: "Matthew Karp, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06035": {
       name: "Lassen",
       color: "rgba(245, 158, 11,1)",
       url: "http://www.norcalems.org/",
       description: "Jeffrey Kepple, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06037": {
       name: "Los Angeles",
       color: "#3B729F",
       url: "http://dhs.lacounty.gov/wps/portal/dhs/ems/",
       description: "Marianne Gausche-Hill, MD, FACEP, FAAP, FAEMS",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06039": {
@@ -219,14 +219,14 @@ var simplemaps_statemap_mapdata={
       color: "rgba(96, 165, 250,1)",
       url: "http://www.co.fresno.ca.us/departments/public-health/emergency-medical-services",
       description: "Jim Andrews, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06041": {
       name: "Marin",
       color: "#3B729F",
       url: "https://ems.marinhhs.org/",
       description: "Dustin Ballard, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06043": {
@@ -234,14 +234,14 @@ var simplemaps_statemap_mapdata={
       color: "rgba(244, 114, 182,1)",
       url: "http://www.mvemsa.org/",
       description: "Kim Freeman, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06045": {
       name: "Mendocino",
       color: "#3B729F",
       url: "https://www.coastalvalleysems.org/",
       description: "Mark Luoto, MD, FACEP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06047": {
@@ -249,7 +249,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "http://www.co.merced.ca.us/2261/Emergency-Medical-Services",
       description: "Ajinder Singh, MD, CPE",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06049": {
@@ -257,21 +257,21 @@ var simplemaps_statemap_mapdata={
       color: "rgba(245, 158, 11,1)",
       url: "http://www.norcalems.org/",
       description: "Jeffrey Kepple, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06051": {
       name: "Mono",
       color: "rgba(5, 150, 105,1)",
       url: "http://www.sbcounty.gov/icema/main/default.aspx",
       description: "Reza Vaezazizi, MD, FACEP",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06053": {
       name: "Monterey",
       color: "#3B729F",
       url: "https://www.sjgov.org/ems/",
       description: "John Beuerle, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06055": {
@@ -279,7 +279,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://www.countyofnapa.org/756/Emergency-Medical-Services-EMS-Agency",
       description: "Zita Konik, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06057": {
@@ -287,14 +287,14 @@ var simplemaps_statemap_mapdata={
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06059": {
       name: "Orange",
       color: "#3B729F",
       url: "/",
       description: "Carl H. Schultz, MD, FACEP, FAAEM",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06061": {
@@ -302,29 +302,29 @@ var simplemaps_statemap_mapdata={
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06063": {
       name: "Plumas",
       color: "rgba(245, 158, 11,1)",
       url: "http://www.norcalems.org/",
       description: "Jeffrey Kepple, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06065": {
       name: "Riverside",
       color: "#3B729F",
       description: "Reza Vaezazizi, MD, FACEP",
       url: "https://www.rivcoems.org/",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06067": {
       name: "Sacramento",
       color: "#3B729F",
       url: "https://dhs.saccounty.gov/PRI/EMS/Pages/EMS-Home.aspx",
-      description: "Hernando Garzon, MD, FACEP",
-      zoomable: "yes",
+      description: "Greg Kann, MD",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06069": {
@@ -332,7 +332,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://www.cosb.us/departments/office-of-emergency-services-oes-and-emergency-medical-services/emergency-medical-services-ems",
       description: "Dave Ghilarducci, MD, FACEP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06071": {
@@ -340,14 +340,14 @@ var simplemaps_statemap_mapdata={
       color: "rgba(5, 150, 105,1)",
       url: "http://www.sbcounty.gov/icema/main/default.aspx",
       description: "Reza Vaezazizi, MD, FACEP",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06073": {
       name: "San Diego",
       color: "#3B729F",
       url: "https://www.sandiegocounty.gov/content/sdc/ems.html",
       description: "Kristi Koenig, MD, FACEP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06075": {
@@ -355,7 +355,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://www.sfdph.org/dph/comupg/oservices/emergency/default.asp",
       description: "John Brown, MD, MPA, FACEP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06077": {
@@ -363,7 +363,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://www.sjgov.org/ems/",
       description: "Katherine A. Shafer, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06079": {
@@ -371,7 +371,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "http://www.sloemsa.org/",
       description: "Thomas G. Ronay, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06081": {
@@ -379,7 +379,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://www.smchealth.org/services-emergency-medical",
       description: "Gregory H. Gilbert, MD, FAAEM",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06083": {
@@ -387,7 +387,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://countyofsb.org/phd/ems/ems-home.sbc",
       description: "Daniel Shepherd, M.D.",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06085": {
@@ -395,7 +395,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://www.sccgov.org/sites/ems/Pages/ems.aspx",
       description: "Kenneth Miller, MD, PhD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06087": {
@@ -403,7 +403,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/EmergencyMedicalServices.aspx",
       description: "David Ghilarducci, MD, FACEP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06089": {
@@ -411,28 +411,28 @@ var simplemaps_statemap_mapdata={
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06091": {
       name: "Sierra",
       color: "rgba(245, 158, 11,1)",
       url: "http://www.norcalems.org/",
       description: "Jeffrey Kepple, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06093": {
       name: "Siskiyou",
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06095": {
       name: "Solano",
       color: "#3B729F",
       url: "http://www.solanocounty.com/depts/ems/",
       description: "Pranav Shetty",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06097": {
@@ -440,7 +440,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "https://www.coastalvalleysems.org/",
       description: "Mark Luoto, MD, FACEP",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06099": {
@@ -448,7 +448,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "http://www.mvemsa.org/",
       description: "Alex Schmalz, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06101": {
@@ -456,35 +456,35 @@ var simplemaps_statemap_mapdata={
       color: "rgba(139, 92, 246,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06103": {
       name: "Tehama",
       color: "rgba(245, 158, 11,1)",
       url: "http://www.ssvems.com/",
       description: "Troy Falck, MD, FACEP, FAAEM",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06105": {
       name: "Trinity",
       color: "rgba(139, 92, 246,1)",
       url: "http://www.norcalems.org/",
       description: "Jeffrey Kepple, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06107": {
       name: "Tulare",
       color: "rgba(96, 165, 250,1)",
       url: "http://www.co.fresno.ca.us/departments/public-health/emergency-medical-services",
       description: "Jim Andrews, MD",
-      zoomable: "yes"
+      zoomable: "no"
     },
     "06109": {
       name: "Tuolumne",
       color: "#3B729F",
       url: "https://www.tuolumnecounty.ca.gov/302/Emergency-Medical-Services",
       description: "Kimberly Freeman, MD, FACEP, NREMT-P",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06111": {
@@ -492,7 +492,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "http://www.vchca.org/ems",
       description: "Daniel Shepherd, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06113": {
@@ -500,7 +500,7 @@ var simplemaps_statemap_mapdata={
       color: "#3B729F",
       url: "http://www.yolocounty.org/health-human-services/providers-partners/yolo-emergency-medical-services-agency-yemsa",
       description: "John Rose, MD",
-      zoomable: "yes",
+      zoomable: "no",
       hover_color: "#3B729F"
     },
     "06115": {
@@ -528,7 +528,7 @@ var simplemaps_statemap_mapdata={
       color: "#059669",
       description: "Reza Vaezazizi, MD, FACEP",
       url: "http://www.sbcounty.gov/icema/main/default.aspx",
-      zoomable: "YES"
+      zoomable: "no"
     },
     "1": {
       states: [
@@ -539,7 +539,7 @@ var simplemaps_statemap_mapdata={
       ],
       name: "Central California EMS",
       color: "#60a5fa",
-      zoomable: "YES",
+      zoomable: "no",
       description: "Jim Andrews, MD",
       url: "http://www.co.fresno.ca.us/departments/public-health/emergency-medical-services"
     },
@@ -552,7 +552,7 @@ var simplemaps_statemap_mapdata={
       ],
       name: "Mountain Valley EMS",
       color: "#f472b6",
-      zoomable: "YES",
+      zoomable: "no",
       description: "Kim Freeman, MD",
       url: "http://www.mvemsa.org/"
     },
@@ -566,7 +566,7 @@ var simplemaps_statemap_mapdata={
       color: "#ef4444",
       description: "Matthew Karp, MD",
       url: "http://www.northcoastems.com/",
-      zoomable: "YES"
+      zoomable: "no"
     },
     "4": {
       states: [
@@ -578,7 +578,7 @@ var simplemaps_statemap_mapdata={
         "06091"
       ],
       name: "Northern California EMS",
-      zoomable: "YES",
+      zoomable: "no",
       color: "#f59e0b",
       description: "Jeffrey Kepple, MD",
       url: "http://www.norcalems.org/"
@@ -597,7 +597,7 @@ var simplemaps_statemap_mapdata={
         "06061"
       ],
       name: "Sierra-Sacramento EMS",
-      zoomable: "YES",
+      zoomable: "no",
       description: "Troy Falck, MD, FACEP, FAAEM",
       color: "#8b5cf6",
       url: "http://www.ssvems.com/"
